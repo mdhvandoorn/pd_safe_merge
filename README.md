@@ -7,6 +7,9 @@ Two dataframes are a perfect match if:
 
 These two conditions are checked by two separate functions so either one can be enforced separately.
 
+# Testing
+All tests are were implemented to run with Pytest.
+
 # Getting Started
 Create a virtual environment and install the necessary dependencies.
 - [requirements.in](/requirements.in) contains the complete freeze of all necessary dependencies.
